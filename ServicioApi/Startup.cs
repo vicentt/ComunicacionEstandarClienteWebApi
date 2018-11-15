@@ -15,9 +15,9 @@ namespace ServicioApi
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configurasdfgtion)
         {
-            Configuration = configuration;
+            Configuration = configurasdfgtion;
         }
 
         public IConfiguration Configuration { get; }
